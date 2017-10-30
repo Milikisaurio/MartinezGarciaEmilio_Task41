@@ -1,4 +1,4 @@
-# Emilio Martinez Garcia 2ºCFGS
+// Emilio Martinez Garcia 2ºCFGS
 public class TestVehicle {
     static public void main (String args []) {
         Vehicle myVehicle = new Vehicle (10000);
